@@ -1,2 +1,2 @@
-# pro-24-geologist
-pro
+# Geologist
+Geologist Project
